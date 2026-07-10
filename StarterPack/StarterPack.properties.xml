@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="StarterPack" referent="RBXA44DB26A864545F3AEA52E8587DB30BB" name="StarterPack">
+	<Properties>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">StarterPack</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">44b188dace632b4702e9c68d00483076</UniqueId>
+	</Properties>
+</RbxInstance>

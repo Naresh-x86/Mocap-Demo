@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Motor6D" referent="RBXC22114FC1E3B4D06821D6150DA274322" name="RightWrist">
+	<Properties>
+		<float name="DesiredAngle">0</float>
+		<float name="MaxVelocity">0</float>
+		<CoordinateFrame name="C0">
+			<X>1.1920929e-07</X>
+			<Y>-0.5009287</Y>
+			<Z>-6.86244753e-18</Z>
+			<R00>1</R00>
+			<R01>0</R01>
+			<R02>0</R02>
+			<R10>0</R10>
+			<R11>1</R11>
+			<R12>0</R12>
+			<R20>0</R20>
+			<R21>0</R21>
+			<R22>1</R22>
+		</CoordinateFrame>
+		<CoordinateFrame name="C1">
+			<X>3.57627869e-07</X>
+			<Y>0.125045404</Y>
+			<Z>5.96046448e-08</Z>
+			<R00>1</R00>
+			<R01>0</R01>
+			<R02>0</R02>
+			<R10>0</R10>
+			<R11>1</R11>
+			<R12>0</R12>
+			<R20>0</R20>
+			<R21>0</R21>
+			<R22>1</R22>
+		</CoordinateFrame>
+		<bool name="Enabled">true</bool>
+		<Ref name="Part0">RBX8F332654F1C94C5DB1F72A8982D7336F</Ref>
+		<Ref name="Part1">RBX670CEA3874214E898610524A266190D8</Ref>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">RightWrist</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">2e54078ca71b34f5031e5d2d0036b58a</UniqueId>
+	</Properties>
+</RbxInstance>

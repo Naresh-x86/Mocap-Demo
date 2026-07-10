@@ -1,0 +1,368 @@
+├── Workspace/
+│   ├── Workspace.properties.xml
+│   ├── Camera/
+│   │   └── Camera.properties.xml
+│   ├── Baseplate.Part/
+│   │   ├── Baseplate.properties.xml
+│   │   └── Texture/
+│   │       └── Texture.properties.xml
+│   ├── Terrain/
+│   │   └── Terrain.properties.xml
+│   ├── VendingMachine.MeshPart/
+│   │   ├── VendingMachine.properties.xml
+│   │   ├── CFramePart.Part/
+│   │   │   └── CFramePart.properties.xml
+│   │   ├── ProximityPrompt/
+│   │   │   ├── ProximityPrompt.properties.xml
+│   │   │   └── Script/
+│   │   │       ├── Script.server.lua
+│   │   │       └── Script.server.properties.xml
+│   │   ├── CoinIn.Animation/
+│   │   │   └── CoinIn.properties.xml
+│   │   ├── Pickup.Animation/
+│   │   │   └── Pickup.properties.xml
+│   │   ├── Drink.Animation/
+│   │   │   └── Drink.properties.xml
+│   │   ├── Sound/
+│   │   │   └── Sound.properties.xml
+│   │   └── DrinkSound.Sound/
+│   │       └── DrinkSound.properties.xml
+│   └── SpawnLocation/
+│       ├── SpawnLocation.properties.xml
+│       └── Decal/
+│           └── Decal.properties.xml
+├── SoundService/
+│   └── SoundService.properties.xml
+├── Players/
+│   └── Players.properties.xml
+├── ReplicatedFirst/
+│   └── ReplicatedFirst.properties.xml
+├── MaterialService/
+│   └── MaterialService.properties.xml
+├── StarterPlayer/
+│   ├── StarterPlayer.properties.xml
+│   └── StarterCharacter.Model/
+│       ├── StarterCharacter.properties.xml
+│       ├── HumanoidRootPart.Part/
+│       │   ├── HumanoidRootPart.properties.xml
+│       │   ├── RootRigAttachment.Attachment/
+│       │   │   ├── RootRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── LeftHand.MeshPart/
+│       │   ├── LeftHand.properties.xml
+│       │   ├── LeftWristRigAttachment.Attachment/
+│       │   │   ├── LeftWristRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftGripAttachment.Attachment/
+│       │   │   ├── LeftGripAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftWrist.Motor6D/
+│       │   │   └── LeftWrist.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── LeftLowerArm.MeshPart/
+│       │   ├── LeftLowerArm.properties.xml
+│       │   ├── LeftElbowRigAttachment.Attachment/
+│       │   │   ├── LeftElbowRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftWristRigAttachment.Attachment/
+│       │   │   ├── LeftWristRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftElbow.Motor6D/
+│       │   │   └── LeftElbow.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── LeftUpperArm.MeshPart/
+│       │   ├── LeftUpperArm.properties.xml
+│       │   ├── LeftShoulderRigAttachment.Attachment/
+│       │   │   ├── LeftShoulderRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftElbowRigAttachment.Attachment/
+│       │   │   ├── LeftElbowRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftShoulderAttachment.Attachment/
+│       │   │   ├── LeftShoulderAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftShoulder.Motor6D/
+│       │   │   └── LeftShoulder.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── RightHand.MeshPart/
+│       │   ├── RightHand.properties.xml
+│       │   ├── RightWristRigAttachment.Attachment/
+│       │   │   ├── RightWristRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightGripAttachment.Attachment/
+│       │   │   ├── RightGripAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightWrist.Motor6D/
+│       │   │   └── RightWrist.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── RightLowerArm.MeshPart/
+│       │   ├── RightLowerArm.properties.xml
+│       │   ├── RightElbowRigAttachment.Attachment/
+│       │   │   ├── RightElbowRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightWristRigAttachment.Attachment/
+│       │   │   ├── RightWristRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightElbow.Motor6D/
+│       │   │   └── RightElbow.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── RightUpperArm.MeshPart/
+│       │   ├── RightUpperArm.properties.xml
+│       │   ├── RightShoulderRigAttachment.Attachment/
+│       │   │   ├── RightShoulderRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightElbowRigAttachment.Attachment/
+│       │   │   ├── RightElbowRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightShoulderAttachment.Attachment/
+│       │   │   ├── RightShoulderAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightShoulder.Motor6D/
+│       │   │   └── RightShoulder.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── UpperTorso.MeshPart/
+│       │   ├── UpperTorso.properties.xml
+│       │   ├── WaistRigAttachment.Attachment/
+│       │   │   ├── WaistRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── NeckRigAttachment.Attachment/
+│       │   │   ├── NeckRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftShoulderRigAttachment.Attachment/
+│       │   │   ├── LeftShoulderRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightShoulderRigAttachment.Attachment/
+│       │   │   ├── RightShoulderRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── BodyFrontAttachment.Attachment/
+│       │   │   ├── BodyFrontAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── BodyBackAttachment.Attachment/
+│       │   │   ├── BodyBackAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftCollarAttachment.Attachment/
+│       │   │   ├── LeftCollarAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightCollarAttachment.Attachment/
+│       │   │   ├── RightCollarAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── NeckAttachment.Attachment/
+│       │   │   ├── NeckAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── Waist.Motor6D/
+│       │   │   └── Waist.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── LeftFoot.MeshPart/
+│       │   ├── LeftFoot.properties.xml
+│       │   ├── LeftAnkleRigAttachment.Attachment/
+│       │   │   ├── LeftAnkleRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftAnkle.Motor6D/
+│       │   │   └── LeftAnkle.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── LeftLowerLeg.MeshPart/
+│       │   ├── LeftLowerLeg.properties.xml
+│       │   ├── LeftKneeRigAttachment.Attachment/
+│       │   │   ├── LeftKneeRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftAnkleRigAttachment.Attachment/
+│       │   │   ├── LeftAnkleRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftKnee.Motor6D/
+│       │   │   └── LeftKnee.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── LeftUpperLeg.MeshPart/
+│       │   ├── LeftUpperLeg.properties.xml
+│       │   ├── LeftHipRigAttachment.Attachment/
+│       │   │   ├── LeftHipRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftKneeRigAttachment.Attachment/
+│       │   │   ├── LeftKneeRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftHip.Motor6D/
+│       │   │   └── LeftHip.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── RightFoot.MeshPart/
+│       │   ├── RightFoot.properties.xml
+│       │   ├── RightAnkleRigAttachment.Attachment/
+│       │   │   ├── RightAnkleRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightAnkle.Motor6D/
+│       │   │   └── RightAnkle.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── RightLowerLeg.MeshPart/
+│       │   ├── RightLowerLeg.properties.xml
+│       │   ├── RightKneeRigAttachment.Attachment/
+│       │   │   ├── RightKneeRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightAnkleRigAttachment.Attachment/
+│       │   │   ├── RightAnkleRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightKnee.Motor6D/
+│       │   │   └── RightKnee.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── RightUpperLeg.MeshPart/
+│       │   ├── RightUpperLeg.properties.xml
+│       │   ├── RightHipRigAttachment.Attachment/
+│       │   │   ├── RightHipRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightKneeRigAttachment.Attachment/
+│       │   │   ├── RightKneeRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightHip.Motor6D/
+│       │   │   └── RightHip.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── LowerTorso.MeshPart/
+│       │   ├── LowerTorso.properties.xml
+│       │   ├── RootRigAttachment.Attachment/
+│       │   │   ├── RootRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── WaistRigAttachment.Attachment/
+│       │   │   ├── WaistRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── LeftHipRigAttachment.Attachment/
+│       │   │   ├── LeftHipRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── RightHipRigAttachment.Attachment/
+│       │   │   ├── RightHipRigAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── WaistCenterAttachment.Attachment/
+│       │   │   ├── WaistCenterAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── WaistFrontAttachment.Attachment/
+│       │   │   ├── WaistFrontAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── WaistBackAttachment.Attachment/
+│       │   │   ├── WaistBackAttachment.properties.xml
+│       │   │   └── OriginalPosition.Vector3Value/
+│       │   │       └── OriginalPosition.properties.xml
+│       │   ├── Root.Motor6D/
+│       │   │   └── Root.properties.xml
+│       │   └── OriginalSize.Vector3Value/
+│       │       └── OriginalSize.properties.xml
+│       ├── Humanoid/
+│       │   ├── Humanoid.properties.xml
+│       │   └── Animator/
+│       │       └── Animator.properties.xml
+│       └── Head.Part/
+│           ├── Head.properties.xml
+│           ├── Mesh.SpecialMesh/
+│           │   └── Mesh.properties.xml
+│           ├── FaceCenterAttachment.Attachment/
+│           │   ├── FaceCenterAttachment.properties.xml
+│           │   └── OriginalPosition.Vector3Value/
+│           │       └── OriginalPosition.properties.xml
+│           ├── FaceFrontAttachment.Attachment/
+│           │   ├── FaceFrontAttachment.properties.xml
+│           │   └── OriginalPosition.Vector3Value/
+│           │       └── OriginalPosition.properties.xml
+│           ├── HairAttachment.Attachment/
+│           │   ├── HairAttachment.properties.xml
+│           │   └── OriginalPosition.Vector3Value/
+│           │       └── OriginalPosition.properties.xml
+│           ├── HatAttachment.Attachment/
+│           │   ├── HatAttachment.properties.xml
+│           │   └── OriginalPosition.Vector3Value/
+│           │       └── OriginalPosition.properties.xml
+│           ├── NeckRigAttachment.Attachment/
+│           │   ├── NeckRigAttachment.properties.xml
+│           │   └── OriginalPosition.Vector3Value/
+│           │       └── OriginalPosition.properties.xml
+│           ├── face.Decal/
+│           │   └── face.properties.xml
+│           ├── Neck.Motor6D/
+│           │   └── Neck.properties.xml
+│           └── OriginalSize.Vector3Value/
+│               └── OriginalSize.properties.xml
+├── StarterPack/
+│   └── StarterPack.properties.xml
+├── StarterGui/
+│   ├── StarterGui.properties.xml
+│   └── ManipulateCamera.LocalScript/
+│       ├── ManipulateCamera.client.lua
+│       └── ManipulateCamera.client.properties.xml
+├── LocalizationService/
+│   └── LocalizationService.properties.xml
+├── ReplicatedStorage/
+│   ├── ReplicatedStorage.properties.xml
+│   ├── Cola.MeshPart/
+│   │   └── Cola.properties.xml
+│   └── Events.Folder/
+│       ├── Events.properties.xml
+│       └── CameraManipulate.RemoteEvent/
+│           └── CameraManipulate.properties.xml
+├── ServerScriptService/
+│   └── ServerScriptService.properties.xml
+├── ServerStorage/
+│   └── ServerStorage.properties.xml
+├── Lighting/
+│   ├── Lighting.properties.xml
+│   ├── Sky/
+│   │   └── Sky.properties.xml
+│   ├── SunRays.SunRaysEffect/
+│   │   └── SunRays.properties.xml
+│   ├── Atmosphere/
+│   │   └── Atmosphere.properties.xml
+│   ├── Bloom.BloomEffect/
+│   │   └── Bloom.properties.xml
+│   └── DepthOfField.DepthOfFieldEffect/
+│       └── DepthOfField.properties.xml
+├── StarterPlayerScripts/
+│   └── StarterPlayerScripts.properties.xml
+└── StarterCharacterScripts/
+    └── StarterCharacterScripts.properties.xml

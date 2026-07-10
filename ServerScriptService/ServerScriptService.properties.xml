@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="ServerScriptService" referent="RBX39DCBEE2411D42BE99E3EBF0461369B4" name="ServerScriptService">
+	<Properties>
+		<bool name="LoadStringEnabled">false</bool>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">ServerScriptService</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">44b188dace632b4702e9c68d0048309e</UniqueId>
+	</Properties>
+</RbxInstance>

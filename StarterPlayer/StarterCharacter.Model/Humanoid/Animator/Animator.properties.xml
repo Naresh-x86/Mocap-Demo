@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Animator" referent="RBX3B644086A3F94FB69A71391FE322E7E9" name="Animator">
+	<Properties>
+		<bool name="PreferLodEnabled">true</bool>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">Animator</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">2e54078ca71b34f5031e5d2d0036b7ad</UniqueId>
+	</Properties>
+</RbxInstance>

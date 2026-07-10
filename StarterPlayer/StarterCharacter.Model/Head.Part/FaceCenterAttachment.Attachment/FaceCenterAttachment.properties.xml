@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Attachment" referent="RBX2A6B564430224689AF9A49E223269CC7" name="FaceCenterAttachment">
+	<Properties>
+		<CoordinateFrame name="CFrame">
+			<X>3.93568822e-09</X>
+			<Y>0</Y>
+			<Z>-0.000272244215</Z>
+			<R00>1</R00>
+			<R01>7.87137555e-09</R01>
+			<R02>3.02998127e-15</R02>
+			<R10>-7.87137555e-09</R10>
+			<R11>1</R11>
+			<R12>-4.1444258e-16</R12>
+			<R20>-3.02998127e-15</R20>
+			<R21>4.14442554e-16</R21>
+			<R22>1</R22>
+		</CoordinateFrame>
+		<bool name="Visible">false</bool>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">FaceCenterAttachment</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">2e54078ca71b34f5031e5d2d0036b571</UniqueId>
+	</Properties>
+</RbxInstance>

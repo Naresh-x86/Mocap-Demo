@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="MaterialService" referent="RBXB12E9D240BE846F7B2415EF477E59092" name="MaterialService">
+	<Properties>
+		<string name="AsphaltName">Asphalt</string>
+		<string name="BasaltName">Basalt</string>
+		<string name="BrickName">Brick</string>
+		<string name="CardboardName">Cardboard</string>
+		<string name="CarpetName">Carpet</string>
+		<string name="CeramicTilesName">CeramicTiles</string>
+		<string name="ClayRoofTilesName">ClayRoofTiles</string>
+		<string name="CobblestoneName">Cobblestone</string>
+		<string name="ConcreteName">Concrete</string>
+		<string name="CorrodedMetalName">CorrodedMetal</string>
+		<string name="CrackedLavaName">CrackedLava</string>
+		<string name="DiamondPlateName">DiamondPlate</string>
+		<string name="FabricName">Fabric</string>
+		<string name="FoilName">Foil</string>
+		<string name="GlacierName">Glacier</string>
+		<string name="GraniteName">Granite</string>
+		<string name="GrassName">Grass</string>
+		<string name="GroundName">Ground</string>
+		<string name="IceName">Ice</string>
+		<string name="LeafyGrassName">LeafyGrass</string>
+		<string name="LeatherName">Leather</string>
+		<string name="LimestoneName">Limestone</string>
+		<string name="MarbleName">Marble</string>
+		<string name="MetalName">Metal</string>
+		<string name="MudName">Mud</string>
+		<string name="PavementName">Pavement</string>
+		<string name="PebbleName">Pebble</string>
+		<string name="PlasterName">Plaster</string>
+		<string name="PlasticName">Plastic</string>
+		<string name="RockName">Rock</string>
+		<string name="RoofShinglesName">RoofShingles</string>
+		<string name="RubberName">Rubber</string>
+		<string name="SaltName">Salt</string>
+		<string name="SandName">Sand</string>
+		<string name="SandstoneName">Sandstone</string>
+		<string name="SlateName">Slate</string>
+		<string name="SmoothPlasticName">SmoothPlastic</string>
+		<string name="SnowName">Snow</string>
+		<bool name="Use2022MaterialsXml">true</bool>
+		<string name="WoodName">Wood</string>
+		<string name="WoodPlanksName">WoodPlanks</string>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">MaterialService</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">44b188dace632b4702e9c68d0048306b</UniqueId>
+	</Properties>
+</RbxInstance>

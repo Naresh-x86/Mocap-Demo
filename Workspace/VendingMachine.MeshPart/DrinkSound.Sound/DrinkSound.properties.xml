@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Sound" referent="RBX9F936E8CEB9E4B2CB78F7480B444CEC0" name="DrinkSound">
+	<Properties>
+		<bool name="AcousticSimulationEnabled">true</bool>
+		<NumberRange name="LoopRegion">0 60000 </NumberRange>
+		<bool name="Looped">false</bool>
+		<bool name="PlayOnRemove">false</bool>
+		<NumberRange name="PlaybackRegion">0 60000 </NumberRange>
+		<bool name="PlaybackRegionsEnabled">false</bool>
+		<float name="PlaybackSpeed">1</float>
+		<bool name="Playing">false</bool>
+		<float name="RollOffMaxDistance">10000</float>
+		<float name="RollOffMinDistance">10</float>
+		<token name="RollOffMode">0</token>
+		<Ref name="SoundGroup">null</Ref>
+		<Content name="SoundId">
+			<url>rbxassetid://8260212770</url>
+		</Content>
+		<double name="TimePosition">0</double>
+		<float name="Volume">0.5</float>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">DrinkSound</string>
+		<int64 name="SourceAssetId">8260212770</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">2e54078ca71b34f5031e5d2d0103ecc7</UniqueId>
+	</Properties>
+</RbxInstance>

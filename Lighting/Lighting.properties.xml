@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Lighting" referent="RBX0E1A5489EE174FDD8C0454796F55A764" name="Lighting">
+	<Properties>
+		<Color3 name="Ambient">
+			<R>0.274509817</R>
+			<G>0.274509817</G>
+			<B>0.274509817</B>
+		</Color3>
+		<float name="Brightness">3</float>
+		<Color3 name="ColorShift_Bottom">
+			<R>0</R>
+			<G>0</G>
+			<B>0</B>
+		</Color3>
+		<Color3 name="ColorShift_Top">
+			<R>0</R>
+			<G>0</G>
+			<B>0</B>
+		</Color3>
+		<float name="EnvironmentDiffuseScale">1</float>
+		<float name="EnvironmentSpecularScale">1</float>
+		<float name="ExposureCompensation">0</float>
+		<token name="ExtendLightRangeTo120">0</token>
+		<Color3 name="FogColor">
+			<R>0.752941251</R>
+			<G>0.752941251</G>
+			<B>0.752941251</B>
+		</Color3>
+		<float name="FogEnd">100000</float>
+		<float name="FogStart">0</float>
+		<float name="GeographicLatitude">0</float>
+		<bool name="GlobalShadows">true</bool>
+		<token name="LightingStyle">1</token>
+		<Color3 name="OutdoorAmbient">
+			<R>0.274509817</R>
+			<G>0.274509817</G>
+			<B>0.274509817</B>
+		</Color3>
+		<bool name="Outlines">false</bool>
+		<bool name="PrioritizeLightingQuality">true</bool>
+		<float name="ShadowSoftness">0.200000003</float>
+		<token name="Technology">3</token>
+		<string name="TimeOfDay">14:30:00</string>
+		<BinaryString name="AttributesSerialize">AwAAACYAAABSQlhfTGlnaHRpbmdUZWNobm9sb2d5VW5pZmllZE1pZ3JhdGlvbgMBIAAAAFJC
+WF9PcmlnaW5hbFRlY2hub2xvZ3lPbkZpbGVMb2FkBAMAAAASAAAAVXNlQ3VycmVudExpZ2h0
+aW5nAwA=</BinaryString>
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">Lighting</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">44b188dace632b4702e9c68d004830cd</UniqueId>
+	</Properties>
+</RbxInstance>

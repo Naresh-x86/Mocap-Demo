@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Decal" referent="RBXDA860BC834D54663BEAB6DB9D196C94B" name="Decal">
+	<Properties>
+		<bool name="AutoLocalize">true</bool>
+		<Color3 name="Color3">
+			<R>1</R>
+			<G>1</G>
+			<B>1</B>
+		</Color3>
+		<Content name="MetalnessMap">
+			<null />
+		</Content>
+		<Content name="NormalMap">
+			<null />
+		</Content>
+		<float name="Rotation">0</float>
+		<Content name="RoughnessMap">
+			<null />
+		</Content>
+		<Content name="Texture">
+			<url>rbxasset://textures/SpawnLocation.png</url>
+		</Content>
+		<Content name="TexturePack">
+			<null />
+		</Content>
+		<string name="TexturePackMetadata" />
+		<float name="Transparency">0</float>
+		<Vector2 name="UVOffset">
+			<X>0</X>
+			<Y>0</Y>
+		</Vector2>
+		<Vector2 name="UVScale">
+			<X>1</X>
+			<Y>1</Y>
+		</Vector2>
+		<int name="ZIndex">1</int>
+		<token name="Face">1</token>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">Decal</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">44b188dace632b4702e9c68d004831fa</UniqueId>
+	</Properties>
+</RbxInstance>

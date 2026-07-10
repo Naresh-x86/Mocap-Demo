@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Atmosphere" referent="RBX2C8568A8E1004E51ABDD27E90E013767" name="Atmosphere">
+	<Properties>
+		<Color3 name="Color">
+			<R>0.78039217</R>
+			<G>0.78039217</G>
+			<B>0.78039217</B>
+		</Color3>
+		<Color3 name="Decay">
+			<R>0.41568628</R>
+			<G>0.43921569</G>
+			<B>0.490196079</B>
+		</Color3>
+		<float name="Density">0.300000012</float>
+		<float name="Glare">0</float>
+		<float name="Haze">0</float>
+		<float name="Offset">0.25</float>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">Atmosphere</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">44b188dace632b4702e9c68d004831f6</UniqueId>
+	</Properties>
+</RbxInstance>

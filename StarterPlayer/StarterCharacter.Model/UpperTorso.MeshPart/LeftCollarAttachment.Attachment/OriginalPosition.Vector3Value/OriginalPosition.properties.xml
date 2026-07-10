@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Vector3Value" referent="RBXAEEAC4B159854D4985AFC23467B8E8BE" name="OriginalPosition">
+	<Properties>
+		<Vector3 name="Value">
+			<X>-0.999999881</X>
+			<Y>0.800016999</Y>
+			<Z>-7.27397378e-08</Z>
+		</Vector3>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">OriginalPosition</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">2e54078ca71b34f5031e5d2d0036b5b5</UniqueId>
+	</Properties>
+</RbxInstance>

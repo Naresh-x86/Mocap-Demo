@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="ReplicatedStorage" referent="RBX5BE38B4FBE7044EF9569B508A8E6BB77" name="ReplicatedStorage">
+	<Properties>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">ReplicatedStorage</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">44b188dace632b4702e9c68d004830a0</UniqueId>
+	</Properties>
+</RbxInstance>

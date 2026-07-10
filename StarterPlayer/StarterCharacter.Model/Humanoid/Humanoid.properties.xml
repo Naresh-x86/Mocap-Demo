@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Humanoid" referent="RBXFFDA266AB2F84DB2B0F3BEF27F6944DD" name="Humanoid">
+	<Properties>
+		<bool name="AutoJumpEnabled">true</bool>
+		<bool name="AutoRotate">true</bool>
+		<bool name="AutomaticScalingEnabled">true</bool>
+		<bool name="BreakJointsOnDeath">true</bool>
+		<token name="CollisionType">0</token>
+		<token name="DisplayDistanceType">0</token>
+		<string name="DisplayName" />
+		<bool name="EvaluateStateMachine">true</bool>
+		<float name="HealthDisplayDistance">100</float>
+		<token name="HealthDisplayType">0</token>
+		<float name="Health_XML">100</float>
+		<float name="HipHeight">2</float>
+		<Vector3 name="InternalBodyScale">
+			<X>1</X>
+			<Y>1</Y>
+			<Z>1</Z>
+		</Vector3>
+		<float name="InternalHeadScale">1</float>
+		<float name="JumpHeight">7.19999981</float>
+		<float name="JumpPower">50</float>
+		<float name="MaxHealth">100</float>
+		<float name="MaxSlopeAngle">89</float>
+		<float name="NameDisplayDistance">100</float>
+		<token name="NameOcclusion">2</token>
+		<bool name="RequiresNeck">true</bool>
+		<token name="RigType">1</token>
+		<bool name="UseJumpPower">true</bool>
+		<float name="WalkSpeed">16</float>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">Humanoid</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">2e54078ca71b34f5031e5d2d0036b577</UniqueId>
+	</Properties>
+</RbxInstance>

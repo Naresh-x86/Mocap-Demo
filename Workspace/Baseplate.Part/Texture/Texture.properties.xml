@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Texture" referent="RBXEE8C79DBEC954408AA92EE481A262B18" name="Texture">
+	<Properties>
+		<float name="OffsetStudsU">0</float>
+		<float name="OffsetStudsV">0</float>
+		<float name="StudsPerTileU">8</float>
+		<float name="StudsPerTileV">8</float>
+		<bool name="AutoLocalize">true</bool>
+		<Color3 name="Color3">
+			<R>0</R>
+			<G>0</G>
+			<B>0</B>
+		</Color3>
+		<Content name="MetalnessMap">
+			<null />
+		</Content>
+		<Content name="NormalMap">
+			<null />
+		</Content>
+		<float name="Rotation">0</float>
+		<Content name="RoughnessMap">
+			<null />
+		</Content>
+		<Content name="Texture">
+			<url>rbxassetid://6372755229</url>
+		</Content>
+		<Content name="TexturePack">
+			<null />
+		</Content>
+		<string name="TexturePackMetadata" />
+		<float name="Transparency">0.800000012</float>
+		<Vector2 name="UVOffset">
+			<X>0</X>
+			<Y>0</Y>
+		</Vector2>
+		<Vector2 name="UVScale">
+			<X>1</X>
+			<Y>1</Y>
+		</Vector2>
+		<int name="ZIndex">1</int>
+		<token name="Face">1</token>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">Texture</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">44b188dace632b4702e9c68d00483207</UniqueId>
+	</Properties>
+</RbxInstance>

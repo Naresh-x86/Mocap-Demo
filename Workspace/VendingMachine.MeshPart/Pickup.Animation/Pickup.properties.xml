@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Animation" referent="RBXA1D6F2B52843472194716835ABD37E6C" name="Pickup">
+	<Properties>
+		<Content name="AnimationId">
+			<url>rbxassetid://10756689691</url>
+		</Content>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">Pickup</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">2e54078ca71b34f5031e5d2d00fb4ad5</UniqueId>
+	</Properties>
+</RbxInstance>

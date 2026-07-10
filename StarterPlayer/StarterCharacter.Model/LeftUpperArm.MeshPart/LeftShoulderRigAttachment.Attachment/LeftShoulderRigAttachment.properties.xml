@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Attachment" referent="RBXFB957E86AFA84EE78021B4ADB62E0761" name="LeftShoulderRigAttachment">
+	<Properties>
+		<CoordinateFrame name="CFrame">
+			<X>0.500000358</X>
+			<Y>0.394326687</Y>
+			<Z>8.94069672e-08</Z>
+			<R00>1</R00>
+			<R01>0</R01>
+			<R02>0</R02>
+			<R10>0</R10>
+			<R11>1</R11>
+			<R12>0</R12>
+			<R20>0</R20>
+			<R21>0</R21>
+			<R22>1</R22>
+		</CoordinateFrame>
+		<bool name="Visible">false</bool>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">LeftShoulderRigAttachment</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">2e54078ca71b34f5031e5d2d0036b54d</UniqueId>
+	</Properties>
+</RbxInstance>

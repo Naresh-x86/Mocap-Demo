@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="SunRaysEffect" referent="RBX9DF1377A8DC74D87AAB6EDE29F75EC47" name="SunRays">
+	<Properties>
+		<float name="Intensity">0.00999999978</float>
+		<float name="Spread">0.100000001</float>
+		<bool name="Enabled">true</bool>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">SunRays</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">44b188dace632b4702e9c68d00483203</UniqueId>
+	</Properties>
+</RbxInstance>

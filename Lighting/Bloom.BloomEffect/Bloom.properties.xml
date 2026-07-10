@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="BloomEffect" referent="RBX6190696308864F3CB9C57CDF6AC950DB" name="Bloom">
+	<Properties>
+		<float name="Intensity">1</float>
+		<float name="Size">24</float>
+		<float name="Threshold">2</float>
+		<bool name="Enabled">true</bool>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">Bloom</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">44b188dace632b4702e9c68d004831f7</UniqueId>
+	</Properties>
+</RbxInstance>

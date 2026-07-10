@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="DepthOfFieldEffect" referent="RBXA17A1DCEE9EC499D915DA4F4B6D913F6" name="DepthOfField">
+	<Properties>
+		<float name="FarIntensity">0.100000001</float>
+		<float name="FocusDistance">0.0500000007</float>
+		<float name="InFocusRadius">30</float>
+		<float name="NearIntensity">0.75</float>
+		<bool name="Enabled">false</bool>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">DepthOfField</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">44b188dace632b4702e9c68d004831fb</UniqueId>
+	</Properties>
+</RbxInstance>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="StarterGui" referent="RBX1D43351F6DBD4B90823F884B6ECAB294" name="StarterGui">
+	<Properties>
+		<token name="ClipsDescendantsSupportsRotation">0</token>
+		<bool name="ResetPlayerGuiOnSpawn">true</bool>
+		<token name="RtlTextSupport">0</token>
+		<token name="ScreenOrientation">4</token>
+		<bool name="ShowDevelopmentGui">true</bool>
+		<Ref name="StudioDefaultStyleSheet">null</Ref>
+		<Ref name="StudioInsertWidgetLayerCollectorAutoLinkStyleSheet">null</Ref>
+		<token name="VirtualCursorMode">0</token>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">StarterGui</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">44b188dace632b4702e9c68d00483077</UniqueId>
+	</Properties>
+</RbxInstance>

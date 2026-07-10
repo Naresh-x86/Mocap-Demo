@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Sound" referent="RBXD388CE6CF0154FE3B5C9FD2C437374E7" name="Sound">
+	<Properties>
+		<bool name="AcousticSimulationEnabled">true</bool>
+		<NumberRange name="LoopRegion">0 60000 </NumberRange>
+		<bool name="Looped">false</bool>
+		<bool name="PlayOnRemove">false</bool>
+		<NumberRange name="PlaybackRegion">0 60000 </NumberRange>
+		<bool name="PlaybackRegionsEnabled">false</bool>
+		<float name="PlaybackSpeed">1</float>
+		<bool name="Playing">false</bool>
+		<float name="RollOffMaxDistance">100</float>
+		<float name="RollOffMinDistance">10</float>
+		<token name="RollOffMode">0</token>
+		<Ref name="SoundGroup">null</Ref>
+		<Content name="SoundId">
+			<url>rbxassetid://9117152808</url>
+		</Content>
+		<double name="TimePosition">0</double>
+		<float name="Volume">1</float>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">Sound</string>
+		<int64 name="SourceAssetId">9117152808</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">2e54078ca71b34f5031e5d2d00fb4ad7</UniqueId>
+	</Properties>
+</RbxInstance>

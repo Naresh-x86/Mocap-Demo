@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Players" referent="RBX51D7C1A7B8A64750BDDBA74366BB3EF1" name="Players">
+	<Properties>
+		<bool name="BanningEnabled">true</bool>
+		<bool name="CharacterAutoLoads">true</bool>
+		<int name="MaxPlayersInternal">30</int>
+		<int name="PreferredPlayersInternal">30</int>
+		<float name="RespawnTime">3</float>
+		<bool name="UseStrafingAnimations">false</bool>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">Players</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">44b188dace632b4702e9c68d00483064</UniqueId>
+	</Properties>
+</RbxInstance>

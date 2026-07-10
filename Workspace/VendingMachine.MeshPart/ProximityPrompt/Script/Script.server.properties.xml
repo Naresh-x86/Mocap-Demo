@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Script" referent="RBX2532F163187242DC86D7BC09959287EF" name="Script">
+	<Properties>
+		<bool name="Disabled">false</bool>
+		<Content name="LinkedSource">
+			<null />
+		</Content>
+		<token name="RunContext">0</token>
+		<string name="ScriptGuid">{29035476-1C60-49A9-9A80-44A8501FD6BF}</string>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">Script</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">2e54078ca71b34f5031e5d2d00fb4ad3</UniqueId>
+	</Properties>
+</RbxInstance>

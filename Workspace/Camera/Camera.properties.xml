@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Camera" referent="RBX1B7845FFD9D34536BD5DAA1FD518A97D" name="Camera">
+	<Properties>
+		<CoordinateFrame name="CFrame">
+			<X>-9.31461048</X>
+			<Y>50.4026451</Y>
+			<Z>61.2340469</Z>
+			<R00>0.993975639</R00>
+			<R01>-0.0806784853</R01>
+			<R02>0.0741854236</R02>
+			<R10>-7.45057971e-09</R10>
+			<R11>0.676864922</R11>
+			<R12>0.736107409</R12>
+			<R20>-0.10960152</R20>
+			<R21>-0.731672823</R21>
+			<R22>0.672787189</R22>
+		</CoordinateFrame>
+		<Ref name="CameraSubject">null</Ref>
+		<token name="CameraType">0</token>
+		<float name="FieldOfView">70</float>
+		<token name="FieldOfViewMode">0</token>
+		<CoordinateFrame name="Focus">
+			<X>-9.46298122</X>
+			<Y>48.9304314</Y>
+			<Z>59.8884735</Z>
+			<R00>1</R00>
+			<R01>0</R01>
+			<R02>0</R02>
+			<R10>0</R10>
+			<R11>1</R11>
+			<R12>0</R12>
+			<R20>0</R20>
+			<R21>0</R21>
+			<R22>1</R22>
+		</CoordinateFrame>
+		<bool name="HeadLocked">true</bool>
+		<float name="HeadScale">1</float>
+		<bool name="VRTiltAndRollEnabled">false</bool>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">Camera</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">44b188dace632b4702e9c68d004831f8</UniqueId>
+	</Properties>
+</RbxInstance>

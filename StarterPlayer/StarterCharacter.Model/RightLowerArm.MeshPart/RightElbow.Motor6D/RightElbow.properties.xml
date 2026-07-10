@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Motor6D" referent="RBXA79DEB1BE2D14D878F8716E05048AB55" name="RightElbow">
+	<Properties>
+		<float name="DesiredAngle">0</float>
+		<float name="MaxVelocity">0</float>
+		<CoordinateFrame name="C0">
+			<X>-5.96046448e-07</X>
+			<Y>-0.334165096</Y>
+			<Z>8.94069672e-08</Z>
+			<R00>1</R00>
+			<R01>0</R01>
+			<R02>0</R02>
+			<R10>0</R10>
+			<R11>1</R11>
+			<R12>0</R12>
+			<R20>0</R20>
+			<R21>0</R21>
+			<R22>1</R22>
+		</CoordinateFrame>
+		<CoordinateFrame name="C1">
+			<X>1.1920929e-07</X>
+			<Y>0.258579493</Y>
+			<Z>7.64462551e-20</Z>
+			<R00>1</R00>
+			<R01>0</R01>
+			<R02>0</R02>
+			<R10>0</R10>
+			<R11>1</R11>
+			<R12>0</R12>
+			<R20>0</R20>
+			<R21>0</R21>
+			<R22>1</R22>
+		</CoordinateFrame>
+		<bool name="Enabled">true</bool>
+		<Ref name="Part0">RBX73D25901764E4E5F85F3B0D1D39261F5</Ref>
+		<Ref name="Part1">RBX8F332654F1C94C5DB1F72A8982D7336F</Ref>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">RightElbow</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">2e54078ca71b34f5031e5d2d0036b58b</UniqueId>
+	</Properties>
+</RbxInstance>

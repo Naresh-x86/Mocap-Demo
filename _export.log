@@ -1,0 +1,442 @@
+2026-07-10 22:05:10 [INFO ] ==================================================
+2026-07-10 22:05:10 [INFO ]   xlx2tree v1.0.0
+2026-07-10 22:05:10 [INFO ]   RBXLX to Directory Tree Exporter
+2026-07-10 22:05:10 [INFO ] ==================================================
+2026-07-10 22:05:10 [INFO ] 
+2026-07-10 22:05:10 [INFO ] Input:  D:\Repositories\Roblox\places\Mocap-Demo.rbxlx
+2026-07-10 22:05:10 [INFO ] Output: D:\Repositories\Roblox\export\Mocap-Demo
+2026-07-10 22:05:10 [INFO ] Config file: D:\Repositories\Roblox\xlx2tree\config.ini (package default)
+2026-07-10 22:05:10 [INFO ] 
+2026-07-10 22:05:10 [INFO ] Config: 13 services enabled, 39 disabled
+2026-07-10 22:05:10 [INFO ] 
+2026-07-10 22:05:10 [INFO ] Parsing Mocap-Demo.rbxlx...
+2026-07-10 22:05:10 [INFO ]   Parsed 50 root services, 225 total instances (0.01s)
+2026-07-10 22:05:10 [INFO ] 
+2026-07-10 22:05:10 [DEBUG]   Skipped service: TimerService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: CollectionService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: VideoCaptureService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: NonReplicatedCSGDictionaryService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: CSGDictionaryService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: Chat
+2026-07-10 22:05:10 [DEBUG]   Skipped service: TweenService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: TextChatService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: PermissionsService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: PlayerEmulatorService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: StudioData
+2026-07-10 22:05:10 [INFO ]   Promoting StarterPlayer child to root: StarterPlayerScripts
+2026-07-10 22:05:10 [INFO ]   Promoting StarterPlayer child to root: StarterCharacterScripts
+2026-07-10 22:05:10 [DEBUG]   Skipped service: TeleportService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: PhysicsService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: InsertService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: GamePassService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: Debris
+2026-07-10 22:05:10 [DEBUG]   Skipped service: CookiesService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: Selection
+2026-07-10 22:05:10 [DEBUG]   Skipped service: VRService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: ContextActionService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: ScriptService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: AssetService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: TouchInputService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: AvatarSettings
+2026-07-10 22:05:10 [DEBUG]   Skipped service: Packages
+2026-07-10 22:05:10 [DEBUG]   Skipped service: GuidRegistryService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: LuaWebService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: ProcessInstancePhysicsService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: ServiceVisibilityService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: HttpService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: DataStoreService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: LodDataService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: ProximityPromptService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: Teams
+2026-07-10 22:05:10 [DEBUG]   Skipped service: TestService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: VideoService
+2026-07-10 22:05:10 [DEBUG]   Skipped service: VirtualInputManager
+2026-07-10 22:05:10 [INFO ] Exporting 15 root-level items...
+2026-07-10 22:05:10 [INFO ]   [Workspace] -> Workspace/
+2026-07-10 22:05:10 [DEBUG]       -> Workspace.properties.xml
+2026-07-10 22:05:10 [DEBUG]       [Camera] Camera/
+2026-07-10 22:05:10 [DEBUG]         -> Camera.properties.xml
+2026-07-10 22:05:10 [DEBUG]       [Part] Baseplate.Part/
+2026-07-10 22:05:10 [DEBUG]         -> Baseplate.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [Texture] Texture/
+2026-07-10 22:05:10 [DEBUG]           -> Texture.properties.xml
+2026-07-10 22:05:10 [DEBUG]       [Terrain] Terrain/
+2026-07-10 22:05:10 [DEBUG]         -> Terrain.properties.xml
+2026-07-10 22:05:10 [DEBUG]       [MeshPart] VendingMachine.MeshPart/
+2026-07-10 22:05:10 [DEBUG]         -> VendingMachine.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [Part] CFramePart.Part/
+2026-07-10 22:05:10 [DEBUG]           -> CFramePart.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [ProximityPrompt] ProximityPrompt/
+2026-07-10 22:05:10 [DEBUG]           -> ProximityPrompt.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Script] Script/
+2026-07-10 22:05:10 [DEBUG]             -> Script.server.properties.xml
+2026-07-10 22:05:10 [DEBUG]             -> Script.server.lua
+2026-07-10 22:05:10 [DEBUG]         [Animation] CoinIn.Animation/
+2026-07-10 22:05:10 [DEBUG]           -> CoinIn.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [Animation] Pickup.Animation/
+2026-07-10 22:05:10 [DEBUG]           -> Pickup.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [Animation] Drink.Animation/
+2026-07-10 22:05:10 [DEBUG]           -> Drink.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [Sound] Sound/
+2026-07-10 22:05:10 [DEBUG]           -> Sound.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [Sound] DrinkSound.Sound/
+2026-07-10 22:05:10 [DEBUG]           -> DrinkSound.properties.xml
+2026-07-10 22:05:10 [DEBUG]       [SpawnLocation] SpawnLocation/
+2026-07-10 22:05:10 [DEBUG]         -> SpawnLocation.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [Decal] Decal/
+2026-07-10 22:05:10 [DEBUG]           -> Decal.properties.xml
+2026-07-10 22:05:10 [INFO ]   [SoundService] -> SoundService/
+2026-07-10 22:05:10 [DEBUG]       -> SoundService.properties.xml
+2026-07-10 22:05:10 [INFO ]   [Players] -> Players/
+2026-07-10 22:05:10 [DEBUG]       -> Players.properties.xml
+2026-07-10 22:05:10 [INFO ]   [ReplicatedFirst] -> ReplicatedFirst/
+2026-07-10 22:05:10 [DEBUG]       -> ReplicatedFirst.properties.xml
+2026-07-10 22:05:10 [INFO ]   [MaterialService] -> MaterialService/
+2026-07-10 22:05:10 [DEBUG]       -> MaterialService.properties.xml
+2026-07-10 22:05:10 [INFO ]   [StarterPlayer] -> StarterPlayer/
+2026-07-10 22:05:10 [DEBUG]       -> StarterPlayer.properties.xml
+2026-07-10 22:05:10 [DEBUG]       [Model] StarterCharacter.Model/
+2026-07-10 22:05:10 [DEBUG]         -> StarterCharacter.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [Part] HumanoidRootPart.Part/
+2026-07-10 22:05:10 [DEBUG]           -> HumanoidRootPart.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RootRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RootRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [MeshPart] LeftHand.MeshPart/
+2026-07-10 22:05:10 [DEBUG]           -> LeftHand.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftWristRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftWristRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftGripAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftGripAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] LeftWrist.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> LeftWrist.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [MeshPart] LeftLowerArm.MeshPart/
+2026-07-10 22:05:10 [DEBUG]           -> LeftLowerArm.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftElbowRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftElbowRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftWristRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftWristRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] LeftElbow.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> LeftElbow.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [MeshPart] LeftUpperArm.MeshPart/
+2026-07-10 22:05:10 [DEBUG]           -> LeftUpperArm.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftShoulderRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftShoulderRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftElbowRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftElbowRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftShoulderAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftShoulderAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] LeftShoulder.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> LeftShoulder.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [MeshPart] RightHand.MeshPart/
+2026-07-10 22:05:10 [DEBUG]           -> RightHand.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightWristRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightWristRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightGripAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightGripAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] RightWrist.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> RightWrist.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [MeshPart] RightLowerArm.MeshPart/
+2026-07-10 22:05:10 [DEBUG]           -> RightLowerArm.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightElbowRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightElbowRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightWristRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightWristRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] RightElbow.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> RightElbow.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [MeshPart] RightUpperArm.MeshPart/
+2026-07-10 22:05:10 [DEBUG]           -> RightUpperArm.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightShoulderRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightShoulderRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightElbowRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightElbowRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightShoulderAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightShoulderAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] RightShoulder.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> RightShoulder.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [MeshPart] UpperTorso.MeshPart/
+2026-07-10 22:05:10 [DEBUG]           -> UpperTorso.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] WaistRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> WaistRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] NeckRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> NeckRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftShoulderRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftShoulderRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightShoulderRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightShoulderRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] BodyFrontAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> BodyFrontAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] BodyBackAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> BodyBackAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftCollarAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftCollarAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightCollarAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightCollarAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] NeckAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> NeckAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] Waist.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> Waist.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [MeshPart] LeftFoot.MeshPart/
+2026-07-10 22:05:10 [DEBUG]           -> LeftFoot.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftAnkleRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftAnkleRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] LeftAnkle.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> LeftAnkle.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [MeshPart] LeftLowerLeg.MeshPart/
+2026-07-10 22:05:10 [DEBUG]           -> LeftLowerLeg.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftKneeRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftKneeRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftAnkleRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftAnkleRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] LeftKnee.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> LeftKnee.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [MeshPart] LeftUpperLeg.MeshPart/
+2026-07-10 22:05:10 [DEBUG]           -> LeftUpperLeg.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftHipRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftHipRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftKneeRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftKneeRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] LeftHip.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> LeftHip.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [MeshPart] RightFoot.MeshPart/
+2026-07-10 22:05:10 [DEBUG]           -> RightFoot.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightAnkleRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightAnkleRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] RightAnkle.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> RightAnkle.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [MeshPart] RightLowerLeg.MeshPart/
+2026-07-10 22:05:10 [DEBUG]           -> RightLowerLeg.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightKneeRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightKneeRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightAnkleRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightAnkleRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] RightKnee.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> RightKnee.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [MeshPart] RightUpperLeg.MeshPart/
+2026-07-10 22:05:10 [DEBUG]           -> RightUpperLeg.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightHipRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightHipRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightKneeRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightKneeRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] RightHip.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> RightHip.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [MeshPart] LowerTorso.MeshPart/
+2026-07-10 22:05:10 [DEBUG]           -> LowerTorso.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RootRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RootRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] WaistRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> WaistRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] LeftHipRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> LeftHipRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] RightHipRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> RightHipRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] WaistCenterAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> WaistCenterAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] WaistFrontAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> WaistFrontAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] WaistBackAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> WaistBackAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] Root.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> Root.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [Humanoid] Humanoid/
+2026-07-10 22:05:10 [DEBUG]           -> Humanoid.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Animator] Animator/
+2026-07-10 22:05:10 [DEBUG]             -> Animator.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [Part] Head.Part/
+2026-07-10 22:05:10 [DEBUG]           -> Head.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [SpecialMesh] Mesh.SpecialMesh/
+2026-07-10 22:05:10 [DEBUG]             -> Mesh.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] FaceCenterAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> FaceCenterAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] FaceFrontAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> FaceFrontAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] HairAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> HairAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] HatAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> HatAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Attachment] NeckRigAttachment.Attachment/
+2026-07-10 22:05:10 [DEBUG]             -> NeckRigAttachment.properties.xml
+2026-07-10 22:05:10 [DEBUG]             [Vector3Value] OriginalPosition.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]               -> OriginalPosition.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Decal] face.Decal/
+2026-07-10 22:05:10 [DEBUG]             -> face.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Motor6D] Neck.Motor6D/
+2026-07-10 22:05:10 [DEBUG]             -> Neck.properties.xml
+2026-07-10 22:05:10 [DEBUG]           [Vector3Value] OriginalSize.Vector3Value/
+2026-07-10 22:05:10 [DEBUG]             -> OriginalSize.properties.xml
+2026-07-10 22:05:10 [INFO ]   [StarterPack] -> StarterPack/
+2026-07-10 22:05:10 [DEBUG]       -> StarterPack.properties.xml
+2026-07-10 22:05:10 [INFO ]   [StarterGui] -> StarterGui/
+2026-07-10 22:05:10 [DEBUG]       -> StarterGui.properties.xml
+2026-07-10 22:05:10 [DEBUG]       [LocalScript] ManipulateCamera.LocalScript/
+2026-07-10 22:05:10 [DEBUG]         -> ManipulateCamera.client.properties.xml
+2026-07-10 22:05:10 [DEBUG]         -> ManipulateCamera.client.lua
+2026-07-10 22:05:10 [INFO ]   [LocalizationService] -> LocalizationService/
+2026-07-10 22:05:10 [DEBUG]       -> LocalizationService.properties.xml
+2026-07-10 22:05:10 [INFO ]   [ReplicatedStorage] -> ReplicatedStorage/
+2026-07-10 22:05:10 [DEBUG]       -> ReplicatedStorage.properties.xml
+2026-07-10 22:05:10 [DEBUG]       [MeshPart] Cola.MeshPart/
+2026-07-10 22:05:10 [DEBUG]         -> Cola.properties.xml
+2026-07-10 22:05:10 [DEBUG]       [Folder] Events.Folder/
+2026-07-10 22:05:10 [DEBUG]         -> Events.properties.xml
+2026-07-10 22:05:10 [DEBUG]         [RemoteEvent] CameraManipulate.RemoteEvent/
+2026-07-10 22:05:10 [DEBUG]           -> CameraManipulate.properties.xml
+2026-07-10 22:05:10 [INFO ]   [ServerScriptService] -> ServerScriptService/
+2026-07-10 22:05:10 [DEBUG]       -> ServerScriptService.properties.xml
+2026-07-10 22:05:10 [INFO ]   [ServerStorage] -> ServerStorage/
+2026-07-10 22:05:10 [DEBUG]       -> ServerStorage.properties.xml
+2026-07-10 22:05:10 [INFO ]   [Lighting] -> Lighting/
+2026-07-10 22:05:10 [DEBUG]       -> Lighting.properties.xml
+2026-07-10 22:05:10 [DEBUG]       [Sky] Sky/
+2026-07-10 22:05:10 [DEBUG]         -> Sky.properties.xml
+2026-07-10 22:05:10 [DEBUG]       [SunRaysEffect] SunRays.SunRaysEffect/
+2026-07-10 22:05:10 [DEBUG]         -> SunRays.properties.xml
+2026-07-10 22:05:10 [DEBUG]       [Atmosphere] Atmosphere/
+2026-07-10 22:05:10 [DEBUG]         -> Atmosphere.properties.xml
+2026-07-10 22:05:10 [DEBUG]       [BloomEffect] Bloom.BloomEffect/
+2026-07-10 22:05:10 [DEBUG]         -> Bloom.properties.xml
+2026-07-10 22:05:10 [DEBUG]       [DepthOfFieldEffect] DepthOfField.DepthOfFieldEffect/
+2026-07-10 22:05:10 [DEBUG]         -> DepthOfField.properties.xml
+2026-07-10 22:05:10 [INFO ]   [StarterPlayerScripts] -> StarterPlayerScripts/
+2026-07-10 22:05:10 [DEBUG]       -> StarterPlayerScripts.properties.xml
+2026-07-10 22:05:10 [INFO ]   [StarterCharacterScripts] -> StarterCharacterScripts/
+2026-07-10 22:05:10 [DEBUG]       -> StarterCharacterScripts.properties.xml
+2026-07-10 22:05:10 [INFO ] Generating _tree.txt manifest...
+2026-07-10 22:05:10 [INFO ]   Written: _tree.txt
+2026-07-10 22:05:10 [INFO ] Generating _metadata.json...
+2026-07-10 22:05:10 [INFO ]   Written: _metadata.json
+2026-07-10 22:05:10 [INFO ] 
+2026-07-10 22:05:10 [INFO ] ==================================================
+2026-07-10 22:05:10 [INFO ]   Export Summary
+2026-07-10 22:05:10 [INFO ] ==================================================
+2026-07-10 22:05:10 [INFO ]   Instances exported:    183
+2026-07-10 22:05:10 [INFO ]   Directories created:   183
+2026-07-10 22:05:10 [INFO ]   Property files:        183
+2026-07-10 22:05:10 [INFO ]   Script files:          2
+2026-07-10 22:05:10 [INFO ]   Services exported:     13
+2026-07-10 22:05:10 [INFO ]   Services skipped:      37
+2026-07-10 22:05:10 [INFO ]   Name conflicts fixed:  0
+2026-07-10 22:05:10 [INFO ] ==================================================
+2026-07-10 22:05:10 [INFO ] 
+2026-07-10 22:05:10 [INFO ] Completed in 0.13s (parse: 0.01s, export: 0.12s)
+2026-07-10 22:05:10 [INFO ] Export log saved to: D:\Repositories\Roblox\export\Mocap-Demo\_export.log
+2026-07-10 22:05:10 [INFO ] 

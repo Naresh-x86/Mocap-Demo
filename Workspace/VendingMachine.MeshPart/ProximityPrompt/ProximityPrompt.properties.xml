@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="ProximityPrompt" referent="RBX1EEF2A7653844141A825A30B1CA193B8" name="ProximityPrompt">
+	<Properties>
+		<string name="ActionText">Buy drink</string>
+		<bool name="AutoLocalize">true</bool>
+		<bool name="ClickablePrompt">true</bool>
+		<bool name="Enabled">true</bool>
+		<token name="Exclusivity">0</token>
+		<token name="GamepadKeyCode">1000</token>
+		<float name="HoldDuration">0.5</float>
+		<token name="KeyboardKeyCode">101</token>
+		<float name="MaxActivationDistance">10</float>
+		<float name="MaxIndicatorDistance">0</float>
+		<string name="ObjectText">$2</string>
+		<bool name="RequiresLineOfSight">false</bool>
+		<Ref name="RootLocalizationTable">null</Ref>
+		<token name="Style">0</token>
+		<Vector2 name="UIOffset">
+			<X>0</X>
+			<Y>150</Y>
+		</Vector2>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">ProximityPrompt</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">2e54078ca71b34f5031e5d2d00fb4ad2</UniqueId>
+	</Properties>
+</RbxInstance>

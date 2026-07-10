@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RbxInstance class="Attachment" referent="RBXBB14B5843BCF4A4A9D05B39B69BAB0C9" name="RightGripAttachment">
+	<Properties>
+		<CoordinateFrame name="CFrame">
+			<X>0</X>
+			<Y>-0.149954513</Y>
+			<Z>-1.46306121e-07</Z>
+			<R00>1</R00>
+			<R01>0</R01>
+			<R02>-0</R02>
+			<R10>0</R10>
+			<R11>6.12323426e-17</R11>
+			<R12>1</R12>
+			<R20>0</R20>
+			<R21>-1</R21>
+			<R22>6.12323426e-17</R22>
+		</CoordinateFrame>
+		<bool name="Visible">false</bool>
+		<BinaryString name="AttributesSerialize" />
+		<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+		<bool name="DefinesCapabilities">false</bool>
+		<UniqueId name="HistoryId">00000000000000000000000000000000</UniqueId>
+		<string name="Name">RightGripAttachment</string>
+		<int64 name="SourceAssetId">-1</int64>
+		<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		<UniqueId name="UniqueId">2e54078ca71b34f5031e5d2d0036b551</UniqueId>
+	</Properties>
+</RbxInstance>
