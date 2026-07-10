@@ -23,6 +23,8 @@ https://github.com/user-attachments/assets/ea5dbea5-bcc4-40b4-9f13-8b86b51fa7dd
 > [!NOTE]
 > Depending on your markdown viewer or browser, you might need to open the raw `.mp4` files inside the `.media/` directory directly if the embedded videos above do not render correctly.
 
+<br>
+ 
 ## What's in here?
 
 The interaction logic is driven by a combination of server-side state management and client-side camera manipulation.
@@ -40,6 +42,8 @@ Located within the vending machine model (`Workspace/VendingMachine.MeshPart/Pro
 ### Client-Side Logic (`ManipulateCamera.client.lua`)
 Located in `StarterGui/ManipulateCamera.LocalScript`, this script listens for the `CameraManipulate` remote event. It toggles the `workspace.CurrentCamera.CameraSubject` between the default `Humanoid` and a specified character part (the `Head`), switching to a dynamic camera ONLY during the animation sequence.
 
+<br>
+ 
 ## Original Files
 
-If you just want to grab the place file and load it into Studio without dealing with all this, check out the **Releases** page on this repository. You'll find the original `.rbxl` and `.rbxlx` files available for download!
+If you just want to grab the place file and load it into Studio without dealing with all this, check out the [**Releases**](https://github.com/Naresh-x86/Mocap-Demo/releases/) page on this repository. You'll find the original `.rbxl` and `.rbxlx` files available for download!
