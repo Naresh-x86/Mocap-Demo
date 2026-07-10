@@ -9,16 +9,16 @@ I also created this specific repository as a testing ground for one of my other 
 
 ## Demonstrations
 
-Here are a few clips I recorded during development to showcase the motion capture process and the final in-game results:
+Here are a few clips I recorded during development:
 
 ### Scene to Wireframe Translation
-![Scene to Wireframe](.media/scene_to_wireframe.mp4)
+https://github.com/user-attachments/assets/34b68a95-49f7-4a67-ac56-2fdcd32ba4c3
 
 ### Wireframe Animation Solo
-![Wireframe Solo](.media/wireframe_solo.mp4)
+https://github.com/user-attachments/assets/35c4df30-39eb-4771-bed5-e3fa7c7611a6
 
 ### In-Game Third Person Camera View
-![Third Person View](.media/third_person_cam.mp4)
+https://github.com/user-attachments/assets/ea5dbea5-bcc4-40b4-9f13-8b86b51fa7dd
 
 > [!NOTE]
 > Depending on your markdown viewer or browser, you might need to open the raw `.mp4` files inside the `.media/` directory directly if the embedded videos above do not render correctly.
